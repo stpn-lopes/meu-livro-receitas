@@ -6,5 +6,5 @@
 
 * Torta de Limão
 * Bolinho de Chuva
-* Couve refougada
+* Couve refogada
 
