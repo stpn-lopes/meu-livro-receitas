@@ -20,6 +20,6 @@
 5. Quando aquecer, coloque a banha de porco com o bacon, deixe fritar.
 6. Logo após, junte o alho e a cebola e mexa por 1 minuto para perfumar.
 7. Coloque a couve fatiada na frigideira, tempere com uma pitada de sal e refogue mexendo por cerca de 2 minutos até começar muchar.
-8. Preste atenção. pois é jogo rápido por demais, se cozinhar demais fica um gosto amargo!
+8. Preste atenção. pois é jogo rápido por demais, se cozinhar demais fica um gosto amargo! 😞
 9. Feito isso, transfira a couve para um recipiente e desfrute do sabor e aroma delicioso!!
 
