@@ -4,9 +4,9 @@
 
 ### Vem comigo!!
 
-<img src:"https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80>
+![image](https://user-images.githubusercontent.com/91392505/157163118-ebdfd451-f0c7-4f87-b950-25362afd43bd.png)
 
-## Ingredientes
+### Ingredientes
 
 - [ ] 3 colheres de óleo (ou banha de porco, como eu prefiro haha)
 - [ ] 3 xícaras de arroz
