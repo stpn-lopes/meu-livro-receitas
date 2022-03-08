@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/91392505/157163526-4b35de09-972f-46ab-b99c-d2aa1845d093.png)
 
-### Ingredientes
+## Ingredientes
 
 - [ ] 2 ovos
 - [ ] 1 xic. de açucar
@@ -22,7 +22,7 @@
 
 
 
-###Modo de Preparo
+## Modo de Preparo
 
 1. Coloque o óleo na panela e o deixe esquentando em fogo médio, enquanto prepara a massa.
 2. Bata os dois ovos.
