@@ -6,7 +6,7 @@
 >
 > Que tal tentar e fazer esta simples receita para alguêm que você ama muito?
 
-
+![image](https://user-images.githubusercontent.com/91392505/157163526-4b35de09-972f-46ab-b99c-d2aa1845d093.png)
 
 ### Ingredientes
 
