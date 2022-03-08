@@ -1,6 +1,8 @@
 # Couve Refogada
 
-### Ingredientes
+![image](https://user-images.githubusercontent.com/91392505/157163969-9d70fb38-5dea-4980-8d38-dd311fe0b6ae.png)
+
+## Ingredientes
 
 - [ ] 1 maço de Couve
 - [ ] 1 colher de Banha 
@@ -9,9 +11,7 @@
 - [ ] bacon
 - [ ] sal a gosto
 
-
-
-###Modo de Preparo
+## Modo de Preparo
 
 1. Lave bem, seque e descarte o talo central das folhas de couve. 
 2. Na tábua, empilhe 3 folhas por vez, enrole formando um charutinho e corte em fatias bem finas. 
@@ -22,3 +22,4 @@
 7. Coloque a couve fatiada na frigideira, tempere com uma pitada de sal e refogue mexendo por cerca de 2 minutos até começar muchar.
 8. Preste atenção. pois é jogo rápido por demais, se cozinhar demais fica um gosto amargo!
 9. Feito isso, transfira a couve para um recipiente e desfrute do sabor e aroma delicioso!!
+
