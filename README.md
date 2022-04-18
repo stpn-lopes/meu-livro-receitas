@@ -2,6 +2,8 @@
 
 Oooolá!!
 
+<img align="right" src="https://img.freepik.com/vetores-gratis/chef-logo-vector_20448-270.jpg?w=360"/>
+
 Seja muito bem vindo ao meu humilde livro de receitas que amo!!
 
 Espero que vocês possam desfrutar dessas gostosuras, assim como eu haha
@@ -34,22 +36,20 @@ Sou suspeita para falar, mas aposto que vão curtir!
      <li> <a href = "https://github.com/stpn-lopes/meu-livro-receitas/blob/master/receitas/Torta_de_Lim%C3%A3o.md" target="_blank">
           Torta de Limão</a> </li>
 </ol>
-<br>
-<br>
-Se acaso houver algum feedback, ou talvez uma recomendação de receita, entre em contato comigo!
-<br>
-<br>
-<div align=right>
 
-Feito com ❤️ por <br> <br>
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91392505?v=4" width="100px;" alt="foto do perfil da Stephany">
-### Stephany Lopes! 
-</div>
+<br/><br/><br/>
 
-## 
-<div align=center>	
+<img align="right" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91392505?v=4" width="200px" alt="foto do perfil da Stephany"/>
+
+## Se acaso houver algum feedback, ou talvez uma recomendação de receita, entre em contato comigo!
+
+<div align=right>	
 	
 [![Linkedin Badge](https://img.shields.io/badge/-Stephany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stpn-lopes/)](https://www.linkedin.com/in/stpn-lopes/) 
 [![Gmail Badge](https://img.shields.io/badge/-stpn.lopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stpn.lopes@gmail.com)](mailto:stpn.lopes@gmail.com)
 	
+</div>
+
+<div align=right>
+Feito com ❤️ por
 </div>
